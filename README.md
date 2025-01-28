@@ -1,5 +1,3 @@
-# JS-Day1-in-class-starter-code
-
 # Forking and Updating the Repository
 Follow these steps to fork this repository (i.e. copy it to your own Github account) and then clone it (download a copy to your local machine) 
 

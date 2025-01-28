@@ -14,5 +14,5 @@ Follow these steps to fork this repository (i.e. copy it to your own Github acco
     ```
 8. Change into the newly created directory:
     ```
-     cd Day-3-CSS
+     cd JS-Day1-in-class-starter-code
     ```

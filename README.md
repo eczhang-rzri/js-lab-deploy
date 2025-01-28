@@ -2,7 +2,7 @@
 Follow these steps to fork this repository (i.e. copy it to your own Github account) and then clone it (download a copy to your local machine) 
 
 ## Steps to for forking and cloning this repository
-1. Visit https://github.com/MIS-374T-Full-Stack/Day-3-CSS.git in your web browser.
+1. Open https://github.com/MIS-374T-Full-Stack/JS-Day1-in-class-starter-code.git in your web browser.
 2. Click the "Fork" button in the top-right corner of the page.
 3. Select your GitHub account as the destination for the fork.
 4. Once forked, click the "Code" button and copy the HTTPS URL of your forked repository.

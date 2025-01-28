@@ -2,7 +2,7 @@
 Follow these steps to fork this repository (i.e. copy it to your own Github account) and then clone it (download a copy to your local machine) 
 
 ## Steps to for forking and cloning this repository
-1. Click the "Fork" button in the top-right corner of the page.
+1. Right-click on the the "Fork" button in the top-right corner of the page and open in a new tab so you can refer back to these steps.
 2. Select your GitHub account as the destination for the fork.
 3. Once forked, click the "Code" button and copy the HTTPS URL of your forked repository.
 4. Open a terminal or command prompt on your local machine.

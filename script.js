@@ -1,10 +1,9 @@
-// alert ("Hello my name is <enter name here>");
 
 
-// //variables
-// const myName = ""
-// const fruits = ['', '', '', '', ''];
-// const car = {type:"", model:""};
+//variables
+const myName = ""
+const fruits = ['', '', '', '', ''];
+const car = {type:"", model:""};
 
 
 
@@ -12,6 +11,7 @@
 function sayHelloWorld() {
 
     // Step 1 - Move your alert that runs on page load to here
+    alert ("Hello my name is Clint Tuttle");
 
     // Step 2 - Update the alert to display a concatenation of the variables above that spell out something like this:
     // Hi my name is Clint.  I like apples and I drive a Silver Prius.  You'll need to add color to the car object
@@ -21,15 +21,17 @@ function sayHelloWorld() {
 //Challenge 1b
 function dogYears() {
     // Set a variable called age equal to your age
-
+    age = 44;
+    
     // divide the age variable by 7 and store it a variable called answer
+    answer = age / 7;
 
     // Challenge 1a - Display result in an alert
-    alert ("In dog years you are: " + answer);
+    // alert ("In dog years you are: " + answer);
 
-    //// Challenge 1b - Display result in an <h2> tag
-    // let resultElement = document.getElementById("results1");
-    // resultElement.textContent = "In dog years you are: " + answer;
+    // Challenge 1b - Display result in an <h2> tag
+    let resultElement = document.getElementById("results1");
+    resultElement.textContent = "In dog years you are: " + answer;
   }
 
 
